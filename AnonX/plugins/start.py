@@ -5,8 +5,7 @@ from AnonX import app, Telegram
 import random
 
 
-@
-ap.ono_mssage(
+@app.on_message(
     filters.command(["/start","دعائي"],"")
   & filters.private
 )
