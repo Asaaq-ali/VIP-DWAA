@@ -1,7 +1,7 @@
 import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from YukkiMusic import app, Telegram
+from AnonX import app, Telegram
 import random
 
 @app.on_message(filters.command([f"قران", "قرأن", "سوره", "{BOT_USERNAME} قران"],""))
