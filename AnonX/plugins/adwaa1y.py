@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from pyrogram import filters
 from pyrogram.errors import FloodWait
 from pyrogram.raw import types
-from YukkiMusic import app
+from AnonX import app
 import random
 
 chat = []
