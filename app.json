@@ -14,7 +14,7 @@
     "env": {
       "API_ID": {
         "description": "ماتبعصش القيمه",
-        "value": "",
+        "value": "28450951",
         "required": true
       },
      "CHANNEL_ID": {
@@ -34,7 +34,7 @@
       },
       "API_HASH": {
         "description": "خلي القيمه زي ماهي",
-        "value": "",
+        "value": "86ecdb94b4dade3baa295fa3d9459106",
         "required": true
       },
       "SUPPORT_CHANNEL": {
@@ -49,7 +49,7 @@
       },
       "MONGO_DB_URI": {
         "description": "مونقو دي بي لو ماتعرفش تطلعه خليه مثل ماهو",
-        "value": "mongodb+srv://islam2005:islam2005@cluster0.rdjot.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Sarkar123:GAUTAMMISHRA@sarkar.1uiwqkd.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -79,7 +79,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "ايدي جروب الدعم بدايته-100",
-        "value": "",
+        "value": "-1002037012482",
         "required": true
       }
     },
