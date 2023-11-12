@@ -11,7 +11,7 @@ import random
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/6ae4c163aac6f69ad9eb9.jpg",
+        photo=f"https://graph.org/file/be9cd1b3ca9dc94ad1843.jpg",
         caption=f""" **✧اهلين فيك يا عيوني في بوت**\n  ✧** لتفعيل البوت:**\n✧**ضيف البوت لجروبك واكتب تفعيل الادعيه **""",
         reply_markup=InlineKeyboardMarkup(
             [
