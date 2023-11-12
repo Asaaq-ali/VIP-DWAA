@@ -20,7 +20,7 @@ async def huhh(client: Client, message: Message):
                         "أضف البوت لجروبك", url=f"https://t.me/dwaalbot?startgroup=true"), 
                 ],[
                     InlineKeyboardButton(
-                        " 💐𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐎𝐇𝐀 💐", url=f"t.me/ASAAQLIO"),
+                        " 💐𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐎𝐇𝐀 💐", url=f"t.me/Mlze1bot"),
                 ],
 
             ]
