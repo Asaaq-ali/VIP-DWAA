@@ -4,9 +4,6 @@
 from AnonX import app
 from pyrogram import filters
 from pyrogram.types import Chat, Message, User
-from config import (
-    BOT_USERNAME,
-)
 
 @app.on_message(filters.text & filters.private & ~filters.me & ~filters.bot)
 async def pmPermit(client: app, message: Message):
